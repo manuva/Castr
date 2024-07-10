@@ -1,1 +1,8 @@
 Be sure to adjust settings in the env file and add one (env file)!
+
+Ex.: 
+
+AUDIO_FILE=/path/to/audiofile
+VIDEO_FILE=/path/to/videofile
+LOG_FILE_PATH=/path/to/Logfile
+YOUTUBE_STREAM_URL=/url/to/youtubestreamurl
